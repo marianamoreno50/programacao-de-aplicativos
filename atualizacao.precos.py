@@ -1,4 +1,4 @@
 precos = [19.90, 45.00, 89.90, 120.00]
-55.50 [0]
-89.90 / 2 [2]
-print (f"osnovos precos sao: {precos}")
+precos[1] = 55.50
+precos[3] = 89.90 / 2
+print (f"os novos precos sao: {precos}")
